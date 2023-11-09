@@ -4,7 +4,7 @@ Dashboards com ênfase em práticas utilizando o SQL e Excel, com o objetivo de 
 
 - [x] ANÁLISE DAS VENDAS DE UMA PIZARRIA: DASHBOARD
    -- Um case de estudos onde usei um tutorial do Youtube no qual é ensinado o passa-a-passo da analise anual de vendas em uma pizarria
-      As analises feitas são:
+      As analises feitas são:<br />
            - Total de faturamento<br />
            - Média de preço por pedido<br />
            - Total de pizzas vendidas<br />
