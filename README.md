@@ -2,7 +2,7 @@
 
 Dashboards com ênfase em práticas utilizando o SQL e Excel, com o objetivo de desenvolver um portfólio que represente situações reais do cotidiano.
 
-- [x] Vendas de uma pizarria: Dashboard
+- [x] <span style="font-size:larger;">Vendas de uma pizarria: Dashboard</span>
 
 ![Dashboard Pizza Sales](Imagens/dashboard.jpg)
 
