@@ -4,4 +4,4 @@ Dashboards com ênfase em práticas utilizando o SQL e Excel, com o objetivo de 
 
 
 
-(Imagens/dashboard.jpg)
+![Dashboard Pizza Sales](Imagens/dashboard.jpg)
